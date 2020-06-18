@@ -1,4 +1,6 @@
-# HackerRank Practice Solutions
+# HackerRank Solutions
+
+This project include solutions of the problem from hackkerank which will be helpful for coding interview preparation.
 
 # [HackerRank Java Practice Set](https://www.hackerrank.com/domains/java)
 | ID |                                                          Desciption/Title                                                         |    Solution   |
