@@ -1,6 +1,11 @@
 # HackerRank Solutions
 
-This project include solutions of the problem from hackkerank which will be helpful for coding interview preparation.
+This project include solutions of the problem from hackerrank which will be helpful for coding interview preparation.
+Since this project is work in progress, we are uploading solutions as soon as new video is releasing in our youtube channel
+[codedecks]()
+
+Support us to make this helpful for people preparing for coding competitions, doing interview preparations.
+
 
 # [HackerRank Java Domain](https://www.hackerrank.com/domains/java)
 | ID |                                                          Desciption/Title                                                         |    Solution   |
