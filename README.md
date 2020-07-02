@@ -22,3 +22,4 @@ Support us to make this helpful for people preparing for coding competitions, do
 |  1  | [Solve Me First](https://www.hackerrank.com/challenges/welcome-to-java/problem)| [Solution1.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/solve-me-first.java)
 |  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/simple-array-sum.java)
 |  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/compare-the-triplets.java)
+|  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/mini-max-sum.java)
