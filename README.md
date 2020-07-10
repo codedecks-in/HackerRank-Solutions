@@ -4,7 +4,7 @@ This project include solutions of the problem from hackerrank which will be help
 Since this project is work in progress, we are uploading solutions as soon as new video is releasing in our youtube channel
 [codedecks](https://www.youtube.com/channel/UCtJg4eV7SszBJx7BsuS_zhA)
 
-Support us to make this helpful for people preparing for coding competitions, doing interview preparations.
+Support us to make this helpful for people preparing for coding competitions and doing interview preparations.
 
 
 # [HackerRank Java Domain](https://www.hackerrank.com/domains/java)
