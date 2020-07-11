@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/PULL_REQUEST_TEMPLATE)
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
 [![HitCount](http://hits.dwyl.com/codedecks-in/HackerRank-Solutions.svg)](http://hits.dwyl.com/codedecks-in/HackerRank-Solutions)
 
@@ -50,7 +50,7 @@ Welcome geeks !!!
 
 ### Pull Request Template
 ``Are you up for your first PR for this project !!!``
-Awesome but please first go through the [PULL REQUEST TEMPLATE.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/PULL_REQUEST_TEMPLATE.md) and use this template to submit your PR.
+Awesome but please first go through the [PULL REQUEST TEMPLATE](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/PULL_REQUEST_TEMPLATE) and use this template to submit your PR.
 
 ### Contributing
 Please read [CONTRIBUTING.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CONTRIBUTING.md) and [CODE OF CONDUCT.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
