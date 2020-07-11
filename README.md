@@ -1,4 +1,10 @@
 # HackerRank Solutions
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/GouravRusiya30/SpringBootRestAPI/blob/master/LICENSE)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
+[![HitCount](http://hits.dwyl.com/codedecks-in/HackerRank-Solutions.svg)](http://hits.dwyl.com/codedecks-in/HackerRank-Solutions)
 
 This project include solutions of the problem from hackerrank which will be helpful for coding interview preparation.
 Since this project is work in progress, we are uploading solutions as soon as new video is releasing in our youtube channel
