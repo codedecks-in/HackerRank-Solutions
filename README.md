@@ -45,3 +45,14 @@ Welcome geeks !!!
 |  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/simple-array-sum.java)    									    |														       |
 |  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/compare-the-triplets.java)    									    |														       |
 |  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/mini-max-sum.java)    									    |														       |
+
+
+### Pull Request Template
+``Are you up for your first PR for this project !!!``
+Awesome but please first go through the [PULL REQUEST TEMPLATE.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/PULL_REQUEST_TEMPLATE.md) and use this template to submit your PR.
+
+### Contributing
+Please read [CONTRIBUTING.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CONTRIBUTING.md) and [CODE OF CONDUCT.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+### Authors
+* **Gourav Rusiya**
