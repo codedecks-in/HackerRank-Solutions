@@ -27,6 +27,7 @@ then you are at the right place. :)
 |  2  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)| [Solution2.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/scanner.java)    									    |														       |
 |  3  | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Solution3.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/java-if-else.java)    									    |	[YT Video](https://youtu.be/O0q_zZI7ccM)													       |
 |  4  | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Solution4.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/java_stdin_stdout_ii.java)    									    |														       |
+|  5  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops/problem)| [Solution5.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/java-loops-i.java)    									    |														       |
 
 
 # [ALGORITHMS](https://www.hackerrank.com/domains/algorithms)
