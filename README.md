@@ -33,18 +33,18 @@ Welcome geeks !!!
 |  2  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)| [Solution2.java](./Java/scanner.java)    									    |								[YT Video](https://youtu.be/r268lvNP5OU)						       |
 |  3  | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Solution3.java](./Java/java-if-else.java)    									    |	[YT Video](https://youtu.be/O0q_zZI7ccM)													       |
 |  4  | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Solution4.java](./Java/java_stdin_stdout_ii.java)    									    |							[YT Video](https://youtu.be/BPjNbwO02IY)							       |
-|  5  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)| [Solution5.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/java-loops-i.java)    									    |							[YT Video](https://youtu.be/kfTsUFggRhI)							       |
-|  6  | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)| [Solution6.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/java-loops-ii.java)    									    |						[YT Video](https://youtu.be/jXY0GVkSMDU)							       |
+|  5  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)| [Solution5.java](./Java/java-loops-i.java)    									    |							[YT Video](https://youtu.be/kfTsUFggRhI)							       |
+|  6  | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)| [Solution6.java](./Java/java-loops-ii.java)    									    |						[YT Video](https://youtu.be/jXY0GVkSMDU)							       |
 
 
 
 # [ALGORITHMS](https://www.hackerrank.com/domains/algorithms)
 | ID |                                                Description/Title                                              				  |                                                                                           Solution                                                                                                                              									    |				 	  Video Explaination					   |
 |:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
-|  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| [Solution1.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/solve-me-first.java)    									    |								[YT Video](https://youtu.be/pO3lF-trL6E)						       |
-|  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/simple-array-sum.java)    									    |							[YT Video](https://youtu.be/avg_9s_39fM)							       |
-|  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/compare-the-triplets.java)    									    |								[YT Video](https://youtu.be/46SWRZ_yFvc)						       |
-|  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
+|  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| [Solution1.java](./Algorithms/solve-me-first.java)    									    |								[YT Video](https://youtu.be/pO3lF-trL6E)						       |
+|  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](./Algorithms/simple-array-sum.java)    									    |							[YT Video](https://youtu.be/avg_9s_39fM)							       |
+|  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](./Algorithms/compare-the-triplets.java)    									    |								[YT Video](https://youtu.be/46SWRZ_yFvc)						       |
+|  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](./Algorithms/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
 
 
 ### Pull Request Template
