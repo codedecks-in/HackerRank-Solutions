@@ -49,6 +49,9 @@ Welcome geeks !!!
 
 ### Pull Request Template
 ``Are you up for your first PR for this project !!!``
+
+<br>
+
 Awesome but please first go through the [PULL REQUEST TEMPLATE](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/PULL_REQUEST_TEMPLATE) and use this template to submit your PR.
 
 ### Contributing
