@@ -12,18 +12,16 @@ Since this project is work in progress, we are uploading solutions as soon as ne
 
 Support us to make this helpful for people preparing for coding competitions and doing interview preparations.
 
+Welcome geeks !!!
 If you are looking for anyone of these things -
 
 hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solutions | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solutions | hackerrank practices solutions | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | codedecks | codedecks compete
-
-Welcome geeks !!!
 
 * [JAVA](#java)
 * [ALGORITHMS](#algorithms)
 * [DATA STRUCTURES](#data-structures)
 * [IMPLEMENTATION](#implementation)
 * [INTERVIEW PREPARATION MATERIALS](#interview-preparation-kit)
-
 
 
 # [JAVA](https://www.hackerrank.com/domains/java)
@@ -47,14 +45,11 @@ Welcome geeks !!!
 |  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](./Algorithms/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
 
 
-### Pull Request Template
+### Wanted to Contribute ?
 ``Are you up for your first PR for this project !!!``
-
 <br>
-
 Awesome but please first go through the [PULL REQUEST TEMPLATE](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/PULL_REQUEST_TEMPLATE) and use this template to submit your PR.
 
-### Contributing
 Please read [CONTRIBUTING.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CONTRIBUTING.md) and [CODE OF CONDUCT.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Authors
