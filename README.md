@@ -7,7 +7,7 @@
 
 [![Everything Is AWESOME](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/codedecks.jpg)](https://www.youtube.com/channel/UCtJg4eV7SszBJx7BsuS_zhA?sub_confirmation=1 "Everything Is AWESOME")
 
-- ### This project include solutions of the problem from hackerrank which will be helpful for coding interview preparation. Since this project is work in progress, we are uploading solutions as soon as new video is releasing in our youtube channel
+- ### This project include solutions of the problem from hackerrank which will be helpful for coding interview preparation. This project is work in progress, we are uploading solutions as soon as new video is releasing in our youtube channel [codedecks](https://www.youtube.com/c/codedecks)
 - ### Don't forget to give us a 🌟 to support us to make this helpful for people preparing for coding competitions and doing interview preparations.
 
 ----------------------------
