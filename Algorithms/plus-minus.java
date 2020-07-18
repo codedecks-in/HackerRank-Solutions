@@ -10,27 +10,36 @@ public class Solution {
 
     // Complete the plusMinus function below.
     static void plusMinus(int[] arr) {
-        double len = arr.length;
 
-        int posSum = 0;
-        int negSum = 0;
+        // len is total number of elements in arr
+        float len = arr.length;
+
+        // count of positive elements
+        int countPositive = 0;
+
+        // count of negative elements;
+        int countNegative = 0;
 
         for(int i=0; i<len; i++){
-            if(arr[i] < 0){
-                negSum++;
+
+            // positive number check
+            if(arr[i] > 0){
+                countPositive++;
             }
-            else if(arr[i] > 0){
-                posSum++;
+            // negative number check
+            else if(arr[i] < 0){
+                countNegative++;
             }
-            
-            // System.out.println(negSum);
-            // System.out.println(posSum);
+
             if(i == (len-1)){
-                System.out.printf("%1.6f \n",posSum/len);
-                System.out.printf("%1.6f \n",negSum/len);
-                System.out.printf("%1.6f \n",(len-(posSum+negSum))/len);
+                // int countZeros = len - (countPositive+countNegative);
+
+                System.out.printf("%1.6f \n",countPositive/len);
+                System.out.printf("%1.6f \n",countNegative/len);
+                System.out.printf("%1.6f \n",(len -(countPositive+countNegative))/len);
             }
         }
+        
     }
 
     private static final Scanner scanner = new Scanner(System.in);
