@@ -29,8 +29,8 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 
 
 # [JAVA](https://www.hackerrank.com/domains/java)
-| ID |                                                Description/Title                                              				  |                                                                                           Solution                                                                                                                              									    |				 	  Video Explaination					   |
-|:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| ID    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
+| ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
 |  1  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)| [Solution1.java](./Java/welcome-to-java.java)    									    |							[YT Video](https://youtu.be/r268lvNP5OU)							       |
 |  2  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)| [Solution2.java](./Java/scanner.java)    									    |								[YT Video](https://youtu.be/r268lvNP5OU)						       |
 |  3  | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Solution3.java](./Java/java-if-else.java)    									    |	[YT Video](https://youtu.be/O0q_zZI7ccM)													       |
@@ -41,8 +41,8 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 
 
 # [ALGORITHMS](https://www.hackerrank.com/domains/algorithms)
-| ID |                                                Description/Title                                              				  |                                                                                           Solution                                                                                                                              									    |				 	  Video Explaination					   |
-|:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| ID    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
+| ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
 |  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| [Solution1.java](./Algorithms/solve-me-first.java)    									    |								[YT Video](https://youtu.be/pO3lF-trL6E)						       |
 |  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](./Algorithms/simple-array-sum.java)    									    |							[YT Video](https://youtu.be/avg_9s_39fM)							       |
 |  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](./Algorithms/compare-the-triplets.java)    									    |								[YT Video](https://youtu.be/46SWRZ_yFvc)						       |
