@@ -47,7 +47,7 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 |  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](./Algorithms/simple-array-sum.java)    									    |							[YT Video](https://youtu.be/avg_9s_39fM)							       |
 |  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](./Algorithms/compare-the-triplets.java)    									    |								[YT Video](https://youtu.be/46SWRZ_yFvc)						       |
 |  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](./Algorithms/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
-|  5  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Solution5.java](./Algorithms/plus-minus.java)    									    |								[YT Video]()						       |
+|  5  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Solution5.java](./Algorithms/plus-minus.java)    									    |								[YT Video](https://youtu.be/D4S9CQU-Cx0)						       |
 |  6  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Solution5.java](./Algorithms/birthday-cake-candles.java)    									    |								[YT Video]()						       |
 
 ### Wanted to Contribute ?
