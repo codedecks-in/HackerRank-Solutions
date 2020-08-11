@@ -25,7 +25,7 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 * [ALGORITHMS](#algorithms)
 * [DATA STRUCTURES](#data-structures)
 * [IMPLEMENTATION](#implementation)
-* [INTERVIEW PREPARATION MATERIALS](#interview-preparation-kit)
+* [LEARNING RESOURCES](#learning-resources)
 
 
 # [JAVA](https://www.hackerrank.com/domains/java)
@@ -49,6 +49,20 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 |  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](./Algorithms/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
 |  5  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Solution5.java](./Algorithms/plus-minus.java)    									    |								[YT Video](https://youtu.be/D4S9CQU-Cx0)						       |
 |  6  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Solution5.java](./Algorithms/birthday-cake-candles.java)    									    |								[YT Video](https://youtu.be/B9v4jqx17dY)						       |
+
+# Learning Resources
+1.) [Cracking the Coding Interview](https://amzn.to/3fH727G)
+
+2.) [Data Structures and Algorithms Made Easy in Java](https://amzn.to/3fJXsRC)
+
+3.) [Data Structure and Algorithmic Thinking with Python](https://amzn.to/30Ldczp)
+
+4.) [Grooking Algorithms](https://amzn.to/3aeTcrV)
+
+5.) [Dynamic Programming for Coding Interviews](https://amzn.to/31K16po)
+
+DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
+
 
 ### Wanted to Contribute ?
 ``Are you up for your first PR for this project !!!``
