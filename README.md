@@ -39,7 +39,7 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 |  6  | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)| [Solution6.java](./Java/java-loops-ii.java)    									    |						[YT Video](https://youtu.be/jXY0GVkSMDU)							       |
 |  7  | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)| [Solution7.java](./Java/java-output-formatting.java)    									    |						[YT Video]()							       |
 |  8  | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)| [Solution8.java](./Java/java-end-of-file.java)    									    |						[YT Video]()							       |
-|  9  | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem| [Solution9.java](./Java/java-static-initializer-block.java)    									    |						[YT Video]()							       |
+|  9  | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Solution9.java](./Java/java-static-initializer-block.java)    									    |						[YT Video]()							       |
 |  10  | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)| [Solution10.java](./Java/java-int-to-string.java)    									    |						[YT Video]()							       |
 
 
