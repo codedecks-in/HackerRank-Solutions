@@ -29,30 +29,30 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 
 
 # [JAVA](https://www.hackerrank.com/domains/java)
-| ID    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
+| Subdomain    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
 | ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
-|  1  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)| [Solution1.java](./Java/welcome-to-java.java)    									    |							[YT Video](https://youtu.be/r268lvNP5OU)							       |
-|  2  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)| [Solution2.java](./Java/scanner.java)    									    |								[YT Video](https://youtu.be/r268lvNP5OU)						       |
-|  3  | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Solution3.java](./Java/java-if-else.java)    									    |	[YT Video](https://youtu.be/O0q_zZI7ccM)													       |
-|  4  | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Solution4.java](./Java/java_stdin_stdout_ii.java)    									    |							[YT Video](https://youtu.be/BPjNbwO02IY)							       |
-|  5  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)| [Solution5.java](./Java/java-loops-i.java)    									    |							[YT Video](https://youtu.be/kfTsUFggRhI)							       |
-|  6  | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)| [Solution6.java](./Java/java-loops-ii.java)    									    |						[YT Video](https://youtu.be/jXY0GVkSMDU)							       |
-|  7  | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)| [Solution7.java](./Java/java-output-formatting.java)    									    |						[YT Video]()							       |
-|  8  | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)| [Solution8.java](./Java/java-end-of-file.java)    									    |						[YT Video]()							       |
-|  9  | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Solution9.java](./Java/java-static-initializer-block.java)    									    |						[YT Video]()							       |
-|  10  | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)| [Solution10.java](./Java/java-int-to-string.java)    									    |						[YT Video]()							       |
+|  Introduction  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)| [Solution1.java](./Java/welcome-to-java.java)    									    |							[YT Video](https://youtu.be/r268lvNP5OU)							       |
+|  Introduction  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)| [Solution2.java](./Java/scanner.java)    									    |								[YT Video](https://youtu.be/r268lvNP5OU)						       |
+|  Introduction  | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Solution3.java](./Java/java-if-else.java)    									    |	[YT Video](https://youtu.be/O0q_zZI7ccM)													       |
+|  Introduction  | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Solution4.java](./Java/java_stdin_stdout_ii.java)    									    |							[YT Video](https://youtu.be/BPjNbwO02IY)							       |
+|  Introduction  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)| [Solution5.java](./Java/java-loops-i.java)    									    |							[YT Video](https://youtu.be/kfTsUFggRhI)							       |
+|  Introduction  | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)| [Solution6.java](./Java/java-loops-ii.java)    									    |						[YT Video](https://youtu.be/jXY0GVkSMDU)							       |
+|  Introduction  | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)| [Solution7.java](./Java/java-output-formatting.java)    									    |						[YT Video]()							       |
+|  Introduction  | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)| [Solution8.java](./Java/java-end-of-file.java)    									    |						[YT Video]()							       |
+|  Introduction  | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Solution9.java](./Java/java-static-initializer-block.java)    									    |						[YT Video]()							       |
+|  Introduction  | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)| [Solution10.java](./Java/java-int-to-string.java)    									    |						[YT Video]()							       |
 
 
 
 # [ALGORITHMS](https://www.hackerrank.com/domains/algorithms)
-| ID    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
+| Subdomain    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
 | ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
-|  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| [Solution1.java](./Algorithms/solve-me-first.java)    									    |								[YT Video](https://youtu.be/pO3lF-trL6E)						       |
-|  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](./Algorithms/simple-array-sum.java)    									    |							[YT Video](https://youtu.be/avg_9s_39fM)							       |
-|  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](./Algorithms/compare-the-triplets.java)    									    |								[YT Video](https://youtu.be/46SWRZ_yFvc)						       |
-|  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](./Algorithms/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
-|  5  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Solution5.java](./Algorithms/plus-minus.java)    									    |								[YT Video](https://youtu.be/D4S9CQU-Cx0)						       |
-|  6  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Solution6.java](./Algorithms/birthday-cake-candles.java)    									    |								[YT Video](https://youtu.be/B9v4jqx17dY)						       |
+|  Warmup  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| [Solution1.java](./Algorithms/solve-me-first.java)    									    |								[YT Video](https://youtu.be/pO3lF-trL6E)						       |
+|  Warmup  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| [Solution2.java](./Algorithms/simple-array-sum.java)    									    |							[YT Video](https://youtu.be/avg_9s_39fM)							       |
+|  Warmup  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Solution3.java](./Algorithms/compare-the-triplets.java)    									    |								[YT Video](https://youtu.be/46SWRZ_yFvc)						       |
+|  Warmup  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](./Algorithms/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
+|  Warmup  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Solution5.java](./Algorithms/plus-minus.java)    									    |								[YT Video](https://youtu.be/D4S9CQU-Cx0)						       |
+|  Warmup  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Solution6.java](./Algorithms/birthday-cake-candles.java)    									    |								[YT Video](https://youtu.be/B9v4jqx17dY)						       |
 
 # Learning Resources
 1.) [Cracking the Coding Interview](https://amzn.to/3fH727G)
