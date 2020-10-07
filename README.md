@@ -53,6 +53,7 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 |  Warmup  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Solution4.java](./Algorithms/mini-max-sum.java)    									    |								[YT Video](https://youtu.be/iL6sAbLRspM)						       |
 |  Warmup  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Solution5.java](./Algorithms/plus-minus.java)    									    |								[YT Video](https://youtu.be/D4S9CQU-Cx0)						       |
 |  Warmup  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Solution6.java](./Algorithms/birthday-cake-candles.java)    									    |								[YT Video](https://youtu.be/B9v4jqx17dY)						       |
+|  Warmup  | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)| [Solution7.java](./Algorithms/roadsandlibraries.java)    									    |								[YT Video](https://#)						       |
 
 # Learning Resources
 1.) [Cracking the Coding Interview](https://amzn.to/3fH727G)
