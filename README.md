@@ -1,4 +1,15 @@
 # HackerRank Solutions
+
+<p align="center">
+<a  href="https://www.facebook.com/groups/codedecks">
+       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
+   </a>
+   <a href="https://www.youtube.com/c/codedecks?sub_confirmation=1">
+       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
+   </a>
+ <p/>
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/PULL_REQUEST_TEMPLATE)
