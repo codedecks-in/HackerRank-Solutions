@@ -88,4 +88,4 @@ Awesome but please first go through the [PULL REQUEST TEMPLATE](https://github.c
 Please read [CONTRIBUTING.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CONTRIBUTING.md) and [CODE OF CONDUCT.md](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Authors
-* **Gourav Rusiya**
+* **[Gourav Rusiya](https://github.com/GouravRusiya30)**
