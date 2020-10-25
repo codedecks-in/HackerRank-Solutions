@@ -69,8 +69,10 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 # [DATA STRUCTURES](https://www.hackerrank.com/domains/data-structures)
 | Subdomain    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
 | ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
-|  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/pO3lF-trL6E)						       |
-
+|  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)						       |
+|  Easy  | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)| [Solution2.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
+|  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
+|  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
 
 
 # Learning Resources
