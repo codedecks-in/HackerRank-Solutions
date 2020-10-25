@@ -66,6 +66,13 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 |  Warmup  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Solution6.java](./Algorithms/birthday-cake-candles.java)    									    |								[YT Video](https://youtu.be/B9v4jqx17dY)						       |
 |  Warmup  | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)| [Solution7.java](./Algorithms/roadsandlibraries.java)    									    |								[YT Video]()						       |
 
+# [DATA STRUCTURES](https://www.hackerrank.com/domains/data-structures)
+| Subdomain    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
+| ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
+|  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/pO3lF-trL6E)						       |
+
+
+
 # Learning Resources
 1.) [Cracking the Coding Interview](https://amzn.to/3fH727G)
 
