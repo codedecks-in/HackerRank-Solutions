@@ -71,8 +71,8 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 | ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
 |  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)						       |
 |  Easy  | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)| [Solution2.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
-|  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
-|  Easy  | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution1.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
+|  Easy  | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)| [Solution3.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
+|  Easy  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)| [Solution4.java](./Data-Structures/traverse-linkedlist.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
 
 
 # Learning Resources
