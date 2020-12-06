@@ -73,7 +73,7 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 |  Easy  | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)| [Solution2.java](./Data-Structures/insertAtHeadOfLinkedList.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
 |  Easy  | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)| [Solution3.java](./Data-Structures/insertAtEndOfLinkedList.java)    									    |								[YT Video](https://youtu.be/KVTaQ0jy7Jw)
 |  Easy  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)| [Solution4.java](./Data-Structures/insertAtPositionOfLinkedList.java)    									    |				[YT Video](https://youtu.be/KVTaQ0jy7Jw)
-
+|  Easy  | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)| [Solution5.java](./Data-Structures/compare-two-linked-lists.java) |	[YT Video](https://youtu.be/KVTaQ0jy7Jw)
 
 # Learning Resources
 1.) [Cracking the Coding Interview](https://amzn.to/3fH727G)
