@@ -16,6 +16,7 @@
         SinglyLinkedListNode newNode = new SinglyLinkedListNode(data);
         
         newNode.next = llist;
+        llist = newNode; //considering llist is the pointer to head node
         
         return newNode;
     }
